@@ -1,1 +1,6 @@
-#include <stdio.h>\n\nint calculate(int a, int b) {\n  //A different calculation\n  return a + b;\n}
+#include <stdio.h>
+
+int calculate(int a, int b) {
+  //A different calculation
+  return a + b;
+}
